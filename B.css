@@ -1,0 +1,27 @@
+#mot {
+    height: 50px;
+    width: 400px;
+    border: 4px;
+    text-align: center;
+    margin-left: 550px;
+    color: white;
+    background-color: #B71A1B;
+    font-size: 30px;
+    font-style: sans-serif;
+}
+#hai {
+    height: 100px;
+    width: 400px;
+    border: 4px;
+    margin-left: 550px;
+    background-color: #D6FFFF;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+#ba {
+    margin-top: 40px;
+}
+#btn {
+    background-color: #8FFF46;
+}
